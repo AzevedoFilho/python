@@ -1,0 +1,1 @@
+Olá amigos(a), estou criando esse repositório para armazenar notebooks e fazer um controle de versão de outros códigos. Abraços.
