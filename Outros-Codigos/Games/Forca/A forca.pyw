@@ -1,5 +1,3 @@
-# -*- coding: cp1252 -*-
-from Tkinter import *
 import random
 
 sorteia=random.choice
